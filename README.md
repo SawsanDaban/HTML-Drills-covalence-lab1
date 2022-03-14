@@ -1,2 +1,2 @@
-# covalence-lab1
+# HTML Drills covalence-lab1
 Covalence lab 1 solution.
